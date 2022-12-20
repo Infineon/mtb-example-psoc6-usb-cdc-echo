@@ -1,4 +1,4 @@
-**This repository is deprecated.** Use the ModusToolbox&trade; example available here - https://github.com/Infineon/mtb-example-usb-host-cdc-echo
+**This repository is deprecated.** Use the ModusToolbox&trade; example available here - https://github.com/Infineon/mtb-example-usb-device-cdc-echo
 # PSoC&trade; 6 MCU: USB CDC echo application
 
 This example demonstrates how to configure the USB block in a PSoC&trade; 6 MCU for communication device class (CDC). When configured for a CDC, the PSoC&trade; 6 MCU device enumerates a virtual COM port, which can be read and written by a terminal emulator program on a PC.
